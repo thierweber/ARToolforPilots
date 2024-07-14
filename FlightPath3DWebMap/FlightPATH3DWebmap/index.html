@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>3D Web Map with Cesium</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cesium.com/downloads/cesiumjs/releases/1.119/Build/Cesium/Cesium.js"></script>
+    <link href="https://cesium.com/downloads/cesiumjs/releases/1.119/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+    
+    <script type="module" src="main.js"></script>
+</head>
+    <body>
+        <div id="locationControls">
+            <label><input type="radio" name="location" value="buochs" checked> Buochs</label>
+            <label><input type="radio" name="location" value="grenchen"> Grenchen</label>
+        </div>
+        <select id="layerSelect">
+            <option value="none">Hide All Layers</option>
+            <option value="group1">With AR</option>
+            <option value="group2">Without AR</option>
+            <option value="both">Show Both Layers</option>
+        </select>
+        <div id="legend">
+            <p><span class="color-box" style="background-color: red;"></span> With AR</p>
+            <p><span class="color-box" style="background-color: blue;"></span> Without AR</p>
+            <p><span class="color-box" style="background-color: black;"></span> Ground Truth</p>
+        </div>
+      <div id="cesiumContainer" class="fullSize"></div>
+     
+    
+    
+    </body>
+</html>
