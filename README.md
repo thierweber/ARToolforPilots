@@ -20,3 +20,6 @@ During cruise flight, the task of orientation is imagined to be supported by hig
 During an approach, the circuit layout is envisioned to be projected into the real-world as gates to fly through (green gates in Figure 4). Information about the destination airport should be displayed near the airport to make the pilot aware of radio frequencies, runway directions, runway length and elevation of the airport.
 
 ![Teaser](Figures/Vision.jpg)
+
+## Video
+![Teaser](videos/VideoHoloLensShort.mp4)
