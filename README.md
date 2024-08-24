@@ -5,4 +5,4 @@ Flights in General Aviation (GA) are commonly operated under Visual Flight Rules
 
 ![Teaser](Figures/Town_name_Screenshot.png)
 ## Vision
-![Teaser](Figures/Unbekanntes_Projekt.png)
+![Teaser](Figures/Vision.png)
