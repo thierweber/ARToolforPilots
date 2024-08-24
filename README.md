@@ -23,4 +23,6 @@ During an approach, the circuit layout is envisioned to be projected into the re
 
 ## Video
 
-![Game Process](videos/VideoHoloLensShort2.mp4)
+
+https://github.com/user-attachments/assets/a99666e9-60ca-458a-a764-50fdaf1e8808
+
