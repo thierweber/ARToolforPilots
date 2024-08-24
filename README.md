@@ -23,4 +23,4 @@ During an approach, the circuit layout is envisioned to be projected into the re
 
 ## Video
 
-![Game Process](https://github.com/Faizun-Faria/Thief-Robber-Landlord-Police/blob/main/Preview/gif_english.gif)
+![Game Process](videos/VideoHoloLensShort2.mp4)
