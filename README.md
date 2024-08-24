@@ -22,4 +22,6 @@ During an approach, the circuit layout is envisioned to be projected into the re
 ![Teaser](Figures/Vision.jpg)
 
 ## Video
-![Teaser](videos/VideoHoloLensShort.mp4)
+
+<video src='videos/VideoHoloLensShort.mp4' width=180/>
+
