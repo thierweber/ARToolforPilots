@@ -40,6 +40,7 @@ During an approach, the circuit layout is envisioned to be projected into the re
 </p>
 
 ### Interaction
+<p>Next to the toggle on and off information, the menu includes a slider to select the projection range. Us-ers select the distance in reference to their own position in which information should still be displayed. This function is important for decluttering information in certain flight phases. During cruise flight, when flying at higher speeds, it is important to be mentally ahead of the airplane, and therefore setting the projection range higher makes sense. During approach however, reducing the range makes sense, as the airplane maneuvers at slower speed in a tighter geospatial area. The bottom section of the menu displays information about surrounding airpace sections. </p>
 <img src="Figures/NearMenuV2_transparent_BG.png" width="250" /> 
 
 ## Application State
