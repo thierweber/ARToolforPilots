@@ -43,6 +43,26 @@ During an approach, the circuit layout is envisioned to be projected into the re
 
 https://github.com/user-attachments/assets/a99666e9-60ca-458a-a764-50fdaf1e8808
 
+## Results 
+
+### Task 1 (Orientation)
+<p float="left">
+  <img src="Figures/POI_Visualization.png" /> </br>
+  <img src="Figures/CTR.png" width="250" /> 
+  <img src="Figures/TMA.png" width="250" /> 
+  <img src="Figures/LS_DR.png" width="250" /> 
+### Task 2 (Airspace)
+
+### Task 3 (Approach)
+  <img src="Figures/Alt_profil_Gren_with.png" width="250" /> 
+  <img src="Figures/Alt_profil_Gren_without.png" width="250" /> </br>
+  <img src="Figures/flightpaths_gren_AR_stadia_arrow.png" width="250" /> 
+  <img src="Figures/flightpaths_gren_withoutAR_stadia_arrow.png" width="250" /> 
+  
+</p>
+
+[3D Web Map Link](https://n.ethz.ch/~weberth/FlightPATH3DWebmap/)
+
 
 ## Conclusion and Future Work
 
