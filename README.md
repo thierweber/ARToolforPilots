@@ -69,8 +69,7 @@ https://github.com/user-attachments/assets/a99666e9-60ca-458a-a764-50fdaf1e8808
   
 </p>
 <p>The following link leads to a 3D web map displaying the recorder flight paths: </p>
-
-[3D Web Map Link](https://n.ethz.ch/~weberth/FlightPATH3DWebmap/)
+<a href="https://n.ethz.ch/~weberth/FlightPATH3DWebmap">3D Web Map</a>
 
 
 ## Conclusion and Future Work
