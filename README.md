@@ -42,7 +42,12 @@ During an approach, the circuit layout is envisioned to be projected into the re
 ### Interaction
 <img src="Figures/NearMenuV2_transparent_BG.png" width="250" /> 
 
-## Video
+## Application State
+<p float="left">
+  <img src="Figures/20240813_130123_HoloLens.jpg" width="320" /> 
+  <img src="Figures/20240813_131358_HoloLens.jpg" width="320" /> 
+  <img src="Figures/20240813_145258_HoloLens.jpg" width="320" /> 
+</p>
 
 
 https://github.com/user-attachments/assets/a99666e9-60ca-458a-a764-50fdaf1e8808
