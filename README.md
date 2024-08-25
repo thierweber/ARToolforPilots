@@ -21,6 +21,22 @@ During an approach, the circuit layout is envisioned to be projected into the re
 
 ![Teaser](Figures/Vision.jpg)
 
+
+## Application Development
+### Software Architecture
+![Software Architecture](Figures/SoftwareArchitecture.png)
+### Visualization
+<p float="left">
+  <img src="Figures/POI_Visualization.png" /> </br>
+  <img src="Figures/CTR.png" width="200" /> 
+  <img src="Figures/TMA.png" width="200" /> 
+  <img src="Figures/LS_DR.png" width="200" /> 
+  
+  
+</p>
+
+### Interaction
+
 ## Video
 
 
