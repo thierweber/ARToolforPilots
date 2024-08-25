@@ -2,6 +2,8 @@
 ![Teaser](Figures/Town_name_Screenshot.png)
 Repository of MSc Thesis by Thierry Weber at ETH Zurich
 
+Full Report: LINK TO FULL REPORT
+
 -----------THIS FILE IS STILL A WORK IN PROGRESS-------------
 
 ## Abstract
