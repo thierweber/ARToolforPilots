@@ -99,5 +99,5 @@ https://github.com/user-attachments/assets/a99666e9-60ca-458a-a764-50fdaf1e8808
 <p>Last but not least, implementing the functionalities and integrating the information suggested by partici-pants during the post-study interview in an AR application will help the still young field of research. </p>
 
 
-## Acknolegement
+## Acknowledgement
 I would like to thank my supervisor, Adrian Sarbach, for the well-structured guidance throughout this project and the lively discussions. Additionally, I thank all the participants of my user study, whose valu-able time, insights, and feedback were crucial in shaping the outcomes of this research. Further, I ex-press my gratitude to the “Zentrum für Aviatik” (ZAV) at ZHAW for showing me their flight simulator and the exchange in current research topics between the ZAV and the Chair or Geoinformation Engineering at ETH Zurich . Finally, I would like to thank Prof. Dr. Martin Raubal for the opportunity to work on this thesis in the Chair of Geoinformation Engineering at ETH Zurich. 
