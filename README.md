@@ -46,6 +46,7 @@ During an approach, the circuit layout is envisioned to be projected into the re
 <img src="Figures/NearMenuV2_transparent_BG.png" width="250" /> 
 
 ## Application State
+<p>The snapshots below showcase the application as used in the user study.</p>
 <p float="left">
   <img src="Figures/20240813_130123_HoloLens.jpg" width="320" /> 
   <img src="Figures/20240813_131358_HoloLens.jpg" width="320" /> 
@@ -56,19 +57,100 @@ During an approach, the circuit layout is envisioned to be projected into the re
 https://github.com/user-attachments/assets/a99666e9-60ca-458a-a764-50fdaf1e8808
 
 ## User Study
+<p> Workflow diagram showing the study procedure per participant.</p>
 <img src="Figures/Flowchart_User_Study_V3.drawio.png"  /> 
 
 ## Results 
 
 ### Task 1 (Orientation)
+<p> Task 1 was about gaining orientation in a scenario of disorientation. Participants were asked to mark the 
+plane’s position on a map, with the help of the AR tool and without. The figures below shows the mean distance 
+between the actual position of the aircraft and the guesses on the left. The boxplot on the right indicates 
+the distribution of the answers per location and condition. The great circle distances were calculated from 
+the coordinates with the help of the haversine formula. It is clearly visible that the distance is smaller in the 
+condition with the AR tool. The boxplots indicate that the guesses in the condition without AR are wider 
+spread than in the condition with AR. Additionally, the condition without AR shows more substantial outli
+ers. Interesting to mention is, that the median deviation of the Zweisimmen scenario with AR is higher 
+(orange line in the left plot in figure below). 
+The discoveries made in Figure 38 coincide with the plots in Figure 39. In this figure again, red represents 
+the condition with AR and blue the one without AR. The dots show the marked positions in latitude and 
+longitude. The blue arrows indicate that there are guesses outside of the area in the plot. By qualitatively 
+analyzing the plots, the pattern indicates a higher accuracy and precision in the condition with AR in 
+Entlebuch. However, the contrast between the conditions is less clear in the scenario Zweisimmen (bottom 
+row). More data would increase the significance of the result and help better recognizing pattern.
+</p>
 <p float="left">
   <img src="Figures/TASK1_EucDist_redblue.png"  width="350"/> 
   <img src="Figures/TASK1_PointSpread_withBasemap_redblue_close_arrows.png" width="450" />
   </p>
     
 ### Task 2 (Airspace)
-
+<p>The second task was about finding the position and then stating in what airspace section the airplane is 
+in, plus what airspace section comes five nautical miles ahead of the current position and orientation of 
+the aircraft. Table 4 presents the results. The correct airspace section is included in the table. It stands out 
+that only a few mistakes were made regarding the airspace section the aircraft is independent of the con
+dition or location. While in the with AR condition all participants were able to state the correct airspace the 
+aircraft is in, in the without AR condition, three participants made a mistake summed on both locations. 
+The only mistake with the AR tool at hand was for the determination of the airspace ahead in the Wil SG 
+scenario. The without AR condition led to half of the answers being false. </p>
 ### Task 3 (Approach)
+
+<p>Task 3 was the only dynamic situation in this user study. The participants were asked to fly an approach 
+according to the published route on the VAC chart of the respective airport (see Figure 36 and Figure 37 
+in Chapter 5.2.3). Here again, the participants had the chance to use the AR tool for one of the approaches. 
+Meaning they either approached the airport of Buochs or Grenchen with AR guidance. Participants were 
+allowed to study the VAC chart in both conditions. Figure 40 shows plots of the altitude profiles in all 
+conditions and locations. The x-axis indicates the distance from the touch-down point in nautical miles, 
+while the altitude (in feet about mean sea level) is represented on the y-axis. The black dotted line repre
+sents the manually modeled circuits according to the VAC chart with a descent of around 4 degrees. The 
+horizontal part of the circuit represents the downwind altitude. The exact distinction between downwind, 
+base and final leg is not directly visible in the plots. The dark gray area is a buffer of about 100 feet, which 
+is a widely accepted deviation from the target altitude. The vertical (red) dotted line indicates the approxi
+mate intended point of interception between the altitude profile and circuit altitude. As the circuit includes 
+the take-off phase as well, only the part right of the red line is to be compared to the circuit. The circuits 
+were modeled manually; hence, they include some buckling in the vertical profile.Concentrating on the flight paths for the scenario in Grenchen (top row), the altitude profile with AR seems 
+to match the circuit slightly better. The flight paths without AR tend to be a bit too low on downwind and 
+only march onto the glide path on the final approach leg. Another observation to be made is the fluctuation 
+of altitude in the with AR condition seems to be slightly higher than in the without AR condition, indicating 
+a more unstable approach. One participant did not manage to land the airplane in Grenchen (flight path 2 
+in the top left plot) in the with AR condition. In general, the final approach leg seems to be flown more 
+stable in the without AR condition. Looking at the interception, it seems that spread in the different flight 
+paths is smaller in the with AR condition.  
+Comparing the profiles in the Buochs scenario (bottom row), the flight profiles in the with AR condition are 
+above the circuit altitude until the short final, hence a steeper approach was flown. In contrast to that, the profiles without the AR tool appear to be on or even below the intended glide path. In this second location, 
+the fluctuation in altitude isn’t notably different. The vertical profile of the final approach leg is steadier in 
+the with AR condition at Buochs. Interesting to see is that two participants gained altitude upon interception 
+with the circuit and flew the downwind leg with almost 500 feet above the published circuit altitude (in the 
+with AR condition). This led to an even steeper final descent.  
+Next to inspecting the flight path laterally, it is also interesting to look at them from a top-down view. Figure 
+41 (see next page) helps to compare the routes geographically. Here again, the black line represents the 
+circuit as published on the VAC chart. Red lines correspond to paths flown with AR and blue lines to paths 
+flown without AR. Each of the two columns represents one location.  
+Examining the Buochs scenario (left column) first, the interception at the beginning of the downwind leg 
+(as published) was flown more precisely in the condition with AR. Although one participant overshot the 
+path into the infield area and another did only intercept the downwind at the end. One participant started 
+intercepting a left-hand downwind for the opposite runway then given in the assignment for this task, which 
+was communicated by the conductor, hence the 180 degree turn in one of the blue lines. In general, the 
+downwind leg during the without AR condition was flown north of the defined route and not exactly in the 
+opposite direction of the runway. This led to a slow intercept with the downwind leg. A few participants 
+managed to fly the downwind in a correct heading, just turned into the direction too early with no AR 
+guidance. The base leg was rounded off into a downwind to final turn more often in the condition without 
+AR condition. Hence, the specified base leg is better visible in the with AR condition. The airport in Buochs 
+only becomes apparent in the base to final turn, thus in both conditions the participants overshot the final 
+turn. As soon as the runway was insight, the alignment with the runway center line was achieved even a 
+bit faster without the AR tool.  
+Moving on to the Grenchen scenario (right column), the circuit is tighter and lower above the ground than 
+in Buochs. In this scenario, the participants managed to better follow the circuit without the AR tool as an 
+aid compared to the approach in Buochs. Thus, the difference between with AR and without is not as clear. 
+However, there are a few things worth mentioning. Starting with the interception point of the downwind. 
+The AR tool seemed to have helped, as the flight paths are closer together at this point. Two of the partic
+ipants flew far south of the defined downwind leg in the without AR condition. One participant landed on 
+the opposite runway, contradicting the assigned task. The left turn before turning base is less pronounced 
+when flown without AR tool. Although this turn is better recognizable in the with AR scenario, it seemed to 
+be difficult to follow the gates in this turn for some of the participants. This resulted in shortened base and 
+final legs and for one participant even had the consequence of not being able to land at the airport (red 
+line with 180-degree turn furthest south in the middle plot). The unstable final approach in the with AR 
+condition, as already seen in the vertical profiles, is also confirmed in the top-down view.  </p>
 <p float="left">
 
   <img src="Figures/Alt_profil_Gren_with.png" width="250" /> 
