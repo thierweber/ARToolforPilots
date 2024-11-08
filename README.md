@@ -2,7 +2,7 @@
 ![Teaser](Figures/Town_name_Screenshot.png)
 Repository of MSc Thesis by Thierry Weber at ETH Zurich
 
-Full Report: LINK TO FULL REPORT
+Full Report: <a href="MSc_Thesis_weberth_report_final_with_declarationoforiginality.pdf alt=""> </a>
 
 -----------THIS FILE IS STILL A WORK IN PROGRESS-------------
 
