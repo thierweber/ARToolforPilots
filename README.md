@@ -93,6 +93,7 @@ dition or location. While in the with AR condition all participants were able to
 aircraft is in, in the without AR condition, three participants made a mistake summed on both locations. 
 The only mistake with the AR tool at hand was for the determination of the airspace ahead in the Wil SG 
 scenario. The without AR condition led to half of the answers being false. </p>
+
 ### Task 3 (Approach)
 
 <p>Task 3 was the only dynamic situation in this user study. The participants were asked to fly an approach 
